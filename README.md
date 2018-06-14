@@ -9,8 +9,11 @@ No central data center contains and run the core logic, but each single node of 
 On the other hand, the frontEnd runs on the users' computer.
 
 ## Implementation
+My first step, but it's not necessary for the DAPP application, was to install an Ethereum node on the Raspberry Pi 3 and run the client in order to connect with the Ethereum network.
+[Demo - YouTube](https://youtu.be/YpJMcgcYTns)
+
 ![](Documentation/images/arch.png)
-This Dapp application is composed by a:
+The Dapp application is composed by a:
 * FrontEnd
 * BackEnd
 
